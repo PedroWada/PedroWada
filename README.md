@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1> Olá, eu sou o Pedro Wada. </h1>
+
+-Estudante de Análise e Desenvolvimento de Sistemas no Senac.
+
 
 <!--
 **PedroWada/PedroWada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
