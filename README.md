@@ -18,5 +18,5 @@ Learning:
 <li>NodeJS</li>
 <li>MongoDB</li>
 <li>React</li>
-<li>-React Native</li>
+<li>React Native</li>
 </ul>
