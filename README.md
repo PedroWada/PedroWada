@@ -1,7 +1,6 @@
 <h1> Olá, eu sou o Pedro Wada. </h1>
 
-### -Estudante de Análise e Desenvolvimento de Sistemas no Senac.
-### -Trabalhando como Web Developer.
+### -Estudante de Análise e Desenvolvimento de Sistemas na AnhembiMorumbi
 
 #### Email: pedrowada2004@gmail.com
 
