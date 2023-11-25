@@ -7,7 +7,6 @@
 Skills:
 <ul>
 <li>HTML, CSS, Javascript</li>
-<li>Java</li>
 <li>Python</li>
 <li>SQL</li>
 </ul>
@@ -17,5 +16,4 @@ Learning:
 <li>NodeJS</li>
 <li>MongoDB</li>
 <li>React</li>
-<li>React Native</li>
 </ul>
