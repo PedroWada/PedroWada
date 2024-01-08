@@ -1,8 +1,8 @@
-<h1> Olá, eu sou o Pedro Wada. </h1>
+<h1> Hi, I am Pedro Wada. </h1>
 
-### -Estudante de Análise e Desenvolvimento de Sistemas na AnhembiMorumbi
+### -Just finished Analisys and System Developmemnt course.
 
-#### Email: pedrowada2004@gmail.com
+#### Email: pedrowada9@gmail.com
 
 Skills:
 <ul>
