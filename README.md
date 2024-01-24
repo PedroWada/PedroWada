@@ -2,9 +2,7 @@
 
 ### -Just finished Analisys and System Developmemnt course.
 
-#### Front-end developer now.
-##### Maybe a Full stack later.
-
+#### Front-end developer.
 
 #### Email: pedrowada9@gmail.com
 
